@@ -1,10 +1,9 @@
 {
   "mcpServers": {
-    "test-server": {
-      "command": "node",
-      "args": ["server.js"],
-      "cwd": ".",
-      "env": {}
-    }
+		"test-server": {
+			"command": "node",
+			"args": ["/home/radioactive/practice/mcp-test/server.js"],
+			"env": {}
+		}
   }
 }
